@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Αρχική"}
-  - {file: "subject.html", title: "Επιλογή μαθήματος"}
+  - {file: "subject-picker.html", title: "Επιλογή μαθήματος"}
   - {file: "README.md", title: "Διάβασέ με"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
