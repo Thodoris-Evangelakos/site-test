@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Αρχική"
+title: "Home"
 ---
 
 {% if site.show_excerpts %}
