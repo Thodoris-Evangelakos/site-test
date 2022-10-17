@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Αρχική"}
   - {file: "sb.html", title: "Επιλογή μαθήματος"}
   - {file: "README.md", title: "Διάβασέ με"}
+  - {file: "sb.html"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:lolno@lol.com"}
