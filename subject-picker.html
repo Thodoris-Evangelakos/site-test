@@ -1,0 +1,10 @@
+---
+layout: default
+title: "Επιλογή Μαθήματος"
+---
+
+{% if site.show_excerpts %}
+  {% include subject-picker.html %}
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}
