@@ -4,4 +4,4 @@ permalink: "/about/"
 layout: page
 ---
 
-{% include subjectpicker.html %}
+Εδω γραφω πραγματα i guess
