@@ -1,5 +1,5 @@
 ---
-title: "Please"
+title: "Σημειώσεις"
 permalink: "/about/"
 layout: page
 ---
