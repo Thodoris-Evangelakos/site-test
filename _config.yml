@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Αρχική"}
-  - {url: "https://thodoris-evangelakos.github.io/site-test/sp/", title: "Επιλογή μαθήματος"}
+  - {title: "Επιλογή μαθήματος", file: "sp.md"}
   - {file: "README.md", title: "Διάβασέ με"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
